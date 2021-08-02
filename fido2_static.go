@@ -1,3 +1,5 @@
+// +build -dynamic
+
 package libfido2
 
 /*
