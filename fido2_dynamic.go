@@ -1,5 +1,3 @@
-// +build dynamic
-
 package libfido2
 
 /*
@@ -7,3 +5,5 @@ package libfido2
 #cgo darwin CFLAGS: -I/usr/local/include -I/usr/local/opt/openssl/include
 */
 import "C"
+
+
